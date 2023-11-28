@@ -12,7 +12,7 @@ const TWITTER_HANDLE = "YSoenggoro";
 const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
 // Add the domain you will be minting
 const tld = ".ninja";
-const CONTRACT_ADDRESS = "0xaC0B3A99a91181d0C420DA3F8512Fa919216501f";
+const CONTRACT_ADDRESS = "0x32EC95690123C22ee0f6b2BBB2563df33f2A6884";
 
 const App = () => {
   const [currentAccount, setCurrentAccount] = useState("");
